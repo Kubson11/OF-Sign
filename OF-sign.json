@@ -1,10 +1,10 @@
 {
-  "first_param": "40621",
-  "last_param": "680fa3ff",
-  "static_param": "33d57ade8c02dbc5a333db99ff9ae26a",
-  "checksum_indexes": [2, 5, 8, 13, 21, 3, 7, 11, 17, 19, 14, 16, 4, 0, 9, 12],
+  "first_param": "40811",
+  "last_param": "6814ac82",
+  "static_param": "iphjO84PUcslsjMXYvqODp7nac606k0b",
+  "checksum_indexes": [22, 9, 1, 26, 39, 14, 26, 14, 39, 39, 34, 15, 13, 7, 32, 21, 24, 24, 26, 30, 13, 6, 33, 38, 19, 2, 31, 23, 17, 33, 0, 38],
   "checksum_constants": [],
-  "checksum_constant": 1274,
-  "x-of-rev": "202505041100-abcdef1234",
+  "checksum_constant": 406,
+  "x-of-rev": "202505041145-7a3e57a1a0",
   "telegram-channel": "@OpenBullet_CFGs"
 }
